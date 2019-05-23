@@ -1,0 +1,22 @@
+{
+    "title": "微服务学习笔记 by Rufus Lin",
+    "description": "微服务学习笔记，本书记录了本人从零开始学习微服务框架的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路。",
+    "language": "zh-hans",
+    "author": "Rufus Lin",
+    "links": {
+        "sidebar": {
+            "Offical Site": "https://rufus123456.github.io/MicroServiceNote"
+        }
+    },
+    "plugins": [
+        "github"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "github": {
+            "url": "https://github.com/rufus123456/MicroServiceNote"
+        }
+    }
+}
