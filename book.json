@@ -8,15 +8,5 @@
             "Offical Site": "https://rufus123456.github.io/MicroServiceNote"
         }
     },
-    "plugins": [
-        "github"
-    ],
-    "pluginsConfig": {
-        "theme-default": {
-            "showLevel": true
-        },
-        "github": {
-            "url": "https://github.com/rufus123456/MicroServiceNote"
-        }
-    }
+    "plugins": []
 }
